@@ -27,12 +27,11 @@ comparison, and actionable mitigations for practitioners.
    system prompt at inference time.
 
 ## Repo layout
-   canary/ canary generator + dataset builder
-   finetune/ multi-provider FT client (polling, retries, cost tracking)
-   extract/ probing suite + exposure metrics
-   analysis/ dose-response curves, figures
-   configs/ experiment matrices
-
+- canary/ canary generator + dataset builder
+- finetune/ multi-provider FT client (polling, retries, cost tracking)
+- extract/ probing suite + exposure metrics
+- analysis/ dose-response curves, figures
+- configs/ experiment matrices
 
 ## Status
  
